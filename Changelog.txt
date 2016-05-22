@@ -1,4 +1,14 @@
-Update r0.01
+Update r0.02 - 22 May 2016
+    General
+        Translations
+            Updated Spanish (credit Jaikor).
+            Updated Chinese (credit leoxp)
+
+    API
+        Backwards Compatibility
+            Added GetTarget(), somehow missed it before. Should resolve errors with some other scripts.
+
+Update r0.01 - 21 May 2016
     General
         Open Beta
             First public version as open beta.
