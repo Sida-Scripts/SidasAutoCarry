@@ -1,3 +1,12 @@
+Update r0.04 - 22 May 2016
+    General
+        Humanizer
+            Added option to completely disable movement humanizing. This option is available in the Advanced menu.
+
+    API
+        Backwards Compatibility
+            Fixed small bug with AttacksEnabled passing wrong param.
+
 Update r0.03 - 22 May 2016
     General
         Translations
