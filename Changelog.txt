@@ -1,3 +1,12 @@
+Update r0.03 - 22 May 2016
+    General
+        Translations
+            Added German (credit S1mple)
+            Updated Chinese (credit leoxp)
+
+        Auto Update
+            The script is now hosted without spaces in the name. Auto updater modified to download from the new path. Should resolve issues when updating.
+
 Update r0.02 - 22 May 2016
     General
         Translations
