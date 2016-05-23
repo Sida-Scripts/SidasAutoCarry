@@ -1,14 +1,57 @@
+==================================
+Update r0.05 - 23 May 2016
+==================================
+    [Bug Fixes]
+        Orianna
+            Fixed passive damage calculations. She should now farm correctly.
+
+    [Champions]
+        KogMaw
+            Q - Caustic Spittle
+                Added spell damages. Can now be used for farming.
+
+            E - Void Ooze
+                Added damages. Can now be used for farming.
+                Can also be used for aoe lane pushing.
+
+            R - Living Artillery
+                Added damages. Can now be used for farming.
+                Can also be used for aoe lane pushing.
+
+        LeBlanc
+            Q - Sigil of Malice
+                Added spell damages. Can now be used for farming,
+
+            W - Distortion
+                Added spell damages. Can now be used for farming.
+                Can also be used for aoe lane pushing.
+
+            E - Ethereal Chains
+                Added spell damages. Can now be used for farming.
+
+        Lee Sin
+            Q - Sonic Wave
+                Added spell damages. Can now be used for farming.
+
+            E - Tempest
+                Added damages. Can now be used for farming.
+                Can also be used for aoe lane pushing.
+
+==================================
 Update r0.04 - 22 May 2016
-    General
+==================================
+    [General]
         Humanizer
             Added option to completely disable movement humanizing. This option is available in the Advanced menu.
 
-    API
+    [API]
         Backwards Compatibility
             Fixed small bug with AttacksEnabled passing wrong param.
 
+==================================
 Update r0.03 - 22 May 2016
-    General
+==================================
+    [General]
         Translations
             Added German (credit S1mple)
             Updated Chinese (credit leoxp)
@@ -16,18 +59,22 @@ Update r0.03 - 22 May 2016
         Auto Update
             The script is now hosted without spaces in the name. Auto updater modified to download from the new path. Should resolve issues when updating.
 
+==================================
 Update r0.02 - 22 May 2016
-    General
+==================================
+    [General]
         Translations
             Updated Spanish (credit Jaikor).
             Updated Chinese (credit leoxp)
 
-    API
+    [API]
         Backwards Compatibility
             Added GetTarget(), somehow missed it before. Should resolve errors with some other scripts.
 
+==================================
 Update r0.01 - 21 May 2016
-    General
+==================================
+    [General]
         Open Beta
             First public version as open beta.
 
