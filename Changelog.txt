@@ -1,4 +1,68 @@
 ==================================
+Update r0.06 - 24 May 2016
+==================================
+    [General]
+        Translations
+            Updated Brazillian-Portugese (credit schumacher)
+
+        Support Mode
+            Support Mode is now saved individually for each champion.
+
+    [Bug Fixes]
+        Skill Farm
+            Fixed error with linear/cone aoe skill farm when initial cast pos was off-screen.
+
+    [Champions]
+        Leona
+            Q - Shield of Daybreak
+                Added damages. Can now be used for farming.
+
+            E - Zenith Blade
+                Added damages. Can now be used for farming.
+                Can also be used for aoe lane pushing.
+
+            R - Solar Flare
+                Added damages. Can now be used for farming.
+                Can also be used for aoe lane pushing.
+                Of course you won't want to last hit with this, but damages are added ready for killsteal later.
+
+        Ezreal
+            R - Trueshot Barrage
+                Can now be used for aoe lane pushing.
+
+        Lux
+            Q - Light Binding
+                Added damages. Can now be used for farming.
+
+            E - Lucent Singularity
+                Added damages. Can now be used for farming.
+                Can also be used for aoe lane pushing.
+
+            R - Final Spark
+                Added damages. Can now be used for farming.
+                Can also be used for aoe lane pushing.
+
+        Vayne
+            Q - Tumble
+                Updated skill farm
+
+    [API]
+        Added hook "UseItem"
+            SAC:Hook("UseItem", function(itemName, itemID) if itemName == "BilgewaterCutlass" then return false end end)
+
+        Added hook "CastMinionLastHit"
+            SAC:Hook("CastMinionLastHit", function(minion, skillKey) return skillKey == _Q end)
+
+        Added hook "CastMinionPush"
+            SAC:Hook("CastMinionPush", function(minion, skillKey) return skillKey == _E end)
+
+        Added hook "CastMinionTower"
+            SAC:Hook("CastMinionTower", function(minion, skillKey) return minion.isSuper end)
+
+        Added hook "CastMinion"
+            Global version of the others and called in all 3 situations.
+
+==================================
 Update r0.05 - 23 May 2016
 ==================================
     [Bug Fixes]
