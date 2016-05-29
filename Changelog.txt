@@ -1,4 +1,42 @@
 ==================================
+Update r0.07 - 29 May 2016
+==================================
+    [Bug Fixes]
+        Support Mode
+            Support Mode will now specifically check that you are melee before including Spoils of War execute damage.
+
+        Toggle Mode
+            'Disable Toggle Mode on Recall' will no longer incorrectly disable toggle mode when casting other spells.
+
+        Inhibs & Nexus
+            Script will no longer fail to target some inhibitors and nexus.
+            No longer throws error when targeting some inhibitors and nexus.
+
+    [Champions]
+        Jayce
+            Bonus Damage
+                Added bonus last hit damage for first attack after switching to hammer stance.
+
+        Shaco
+            Bonus Damage
+                Added bonus last hit damage when Deceive is active.
+
+            Q - Deceive
+                Skill added. Will be cast near the enemy, basically used like a gapcloser. Does not have custom gank logic etc.
+
+            E - Two-Shiv Poison
+                Skill added.
+                Added damages. Can also be used for farming.
+
+        Sivir
+            Q - Boomerang Blade
+                Added damages. Can now be used for farming.
+                Can also be used for aoe lane pushing.
+
+            W - Ricochet
+                Added damages. Can now be used for farming.
+
+==================================
 Update r0.06 - 24 May 2016
 ==================================
     [General]
