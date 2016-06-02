@@ -1,4 +1,18 @@
 ==================================
+Update r0.08 - 02 June 2016
+==================================
+    [General]
+        Translations
+            Added Korean (credit KuroXNeko)
+
+        Packets
+            Updated packets for patch 6.11
+
+    [Bug Fixes]
+        Custom Spell Data
+            The delay slider in the 'Modify Skill Data' menu now correctly allows adjustment within 2 decimal places.
+
+==================================
 Update r0.07 - 29 May 2016
 ==================================
     [Bug Fixes]
@@ -10,7 +24,7 @@ Update r0.07 - 29 May 2016
 
         Inhibs & Nexus
             Script will no longer fail to target some inhibitors and nexus.
-            No longer throws error when targeting some inhibitors and nexus.
+            No longer throws error when attacking some inhibitors and nexus.
 
     [Champions]
         Jayce
