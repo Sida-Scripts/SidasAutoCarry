@@ -1,4 +1,55 @@
 ==================================
+Update r0.09 - 19 June 2016
+==================================
+    [General]
+        Packets
+            Updated packets for patch 6.12.
+
+    [Bug Fixes]
+        Performance
+            Fixed a bug which caused damage calculations to be performed needlessly on ally minions.
+
+    [Items]
+        Blade of the Ruined King
+            Bonus damages now included in farming.
+
+        Nashor's Tooth
+            Bonus damages now included in farming.
+
+        Recurve Bow
+            Bonus damages now included in farming.
+
+        Runaan's Hurricane
+            Bonus damages now included in farming.
+
+        Sheen
+            Bonus damages now included in farming.
+
+        Lich Bane
+            Bonus damages now included in farming.
+
+        Kircheis Shard
+            Bonus damages now included in farming.
+
+        Rapidfire Cannon
+            Bonus damages now included in farming.
+
+        Statik Shiv
+            Bonus damages now included in farming.
+
+        Trinity Force
+            Bonus damages now included in farming.
+
+        Iceborn Gauntlet
+            Bonus damages now included in farming.
+
+        Guinsoo's Rageblade
+            Bonus damages now included in farming.
+
+        Wit's End
+            Bonus damages now included in farming.
+
+==================================
 Update r0.08 - 02 June 2016
 ==================================
     [General]
@@ -6,7 +57,7 @@ Update r0.08 - 02 June 2016
             Added Korean (credit KuroXNeko)
 
         Packets
-            Updated packets for patch 6.11
+            Updated packets for patch 6.11.
 
     [Bug Fixes]
         Custom Spell Data
