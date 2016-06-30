@@ -1,4 +1,15 @@
 ==================================
+Update r0.10 - 30 June 2016
+==================================
+    [General]
+        Packets
+            Updated packets for patch 6.13.
+
+    [Bug Fixes]
+        Statik Shiv
+            Fixed error thrown when using Statik Shiv.
+
+==================================
 Update r0.09 - 19 June 2016
 ==================================
     [General]
