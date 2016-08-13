@@ -1,4 +1,14 @@
 ==================================
+Update r0.12 - 13 August 2016
+==================================
+    [General]
+        Packets
+            Updated packets for patch 6.16.
+
+        Backend
+            New encryption due to BoL changes. Open beta is now closed beta for sac users.
+
+==================================
 Update r0.11 - 18 July 2016
 ==================================
     [General]
