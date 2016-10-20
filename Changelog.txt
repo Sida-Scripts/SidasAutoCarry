@@ -1,9 +1,16 @@
 ==================================
+Update r0.18 - 20 October 2016
+==================================
+    [General]
+        Packets
+            Updated packets for patch 6.21.
+
+==================================
 Update r0.17 - 15 October 2016
 ==================================
     [Bug Fixes]
         Chat spam
-            Fixed chat spam error
+            Fixed chat spam error.
 
 ==================================
 Update r0.16 - 12 October 2016
