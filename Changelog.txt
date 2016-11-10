@@ -1,4 +1,14 @@
 ==================================
+Update r0.19 - 10 November 2016
+==================================
+    [General]
+        Packets
+            Updated packets for patch 6.22
+
+        6.22 Issues
+            Some workarounds for 6.22 issues.
+
+==================================
 Update r0.18 - 20 October 2016
 ==================================
     [General]
