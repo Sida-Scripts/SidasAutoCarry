@@ -1,4 +1,24 @@
 ==================================
+Update r0.21 - 21 December 2016
+==================================
+    [General]
+        Packets
+            Updated packets for patch 6.24.
+
+    [Bug Fixes]
+        Camille
+            Q will now properly reset attack timer.
+            Will no longer pause orbwalking after casting Q.
+
+    [Champions]
+        Camille
+            General
+                Added Camille data
+
+            Q - Precision Protocol
+                Added skill.
+
+==================================
 Update r0.20 - 28 November 2016
 ==================================
     [General]
