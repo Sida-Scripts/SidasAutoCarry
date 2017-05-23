@@ -1,4 +1,14 @@
 ==================================
+Update r0.26 - 23 May 2017
+==================================
+    [Bug Fixes]
+        Zyra Seeds
+            LaneClear will no longer try to attack Zyra's seeds.
+
+        Packets
+            Updated packets.
+
+==================================
 Update r0.25 - 10 March 2017
 ==================================
     [General]
