@@ -1,4 +1,11 @@
 ==================================
+Update r0.27 - 04 June 2017
+==================================
+    [Bug Fixes]
+        Buffs
+            Fixed an issue caused by recent change to buff callback. This issue will be the root of many issues such as incorrect spell damage farm calculations and graves not attacking.
+
+==================================
 Update r0.26 - 23 May 2017
 ==================================
     [Bug Fixes]
