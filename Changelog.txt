@@ -1,4 +1,11 @@
 ==================================
+Update r0.28 - 04 June 2017
+==================================
+    [Bug Fixes]
+        Farming
+            Fixed orbwalking being paused when a minion dies mid-attack due to latest patch
+
+==================================
 Update r0.27 - 04 June 2017
 ==================================
     [Bug Fixes]
